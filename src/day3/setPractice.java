@@ -5,5 +5,6 @@ public class setPractice {
 // commits are good
         // git is cool
         // i kinda understand it
+        // collection of element
     }
 }
