@@ -9,5 +9,6 @@ public class listPractice {
         List<String> list = new ArrayList<>();
 // adding one
         // printing
+        //new
     }
 }
