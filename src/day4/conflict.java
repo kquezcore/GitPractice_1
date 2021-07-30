@@ -7,4 +7,5 @@ public class conflict {
     // and it will become final merge resul
     // this is the collection branch content
 
+    //This is the change collection2 branch does not know about
 }
